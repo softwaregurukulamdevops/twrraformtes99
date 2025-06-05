@@ -1,4 +1,1 @@
-# twrraformtes99
-436 539 482 224
-vp7v3g82
-https://teams.microsoft.com/l/meetup-join/19:meeting_MmYwNzllZTUtMTA0OC00ODc2LTkzYTEtYjgzMmNiMWZmODg1@thread.v2/0?context=%7B%22Tid%22:%22e1c5d9ee-a951-451e-8432-642c23d40071%22,%22Oid%22:%22eb54eebb-3d35-4976-97f8-c2df9a00fc08%22%7D
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNkNjBkZWUtYWM1YS00Y2IwLWIyMDYtOWQ4MGU5MzExYWEw%40thread.v2/0?context=%7b%22Tid%22%3a%2224c341f8-8c8f-44ef-a388-6fa08c3eef6a%22%2c%22Oid%22%3a%22c5cbfd7e-d586-44a1-97c7-db23a22eafc9%22%7d
